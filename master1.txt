@@ -1,1 +1,14 @@
-test file ss
+Destructive operations (DO) - SQL DDL operations that cause data deletion or data corruption. The following operations are destructive:
+
+Deleting a table
+
+Deleting a column
+
+Reducing column length
+
+Changing column precision
+
+Changing the column type
+
+New line added from A
+
